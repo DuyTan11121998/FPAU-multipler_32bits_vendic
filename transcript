@@ -1,0 +1,5 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/vsim.wlf
+# ** Note: (vish-4074) File C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/vsim.wlf is still open, viewing file in live viewing mode.
+# 
+add wave vsim:/mult_tb/*

@@ -1,0 +1,135 @@
+C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/normalize.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/normalize.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module normalize
+
+Top level modules:
+	normalize
+
+} {} {}} {C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/vedic24 .v} {1 {vlog -work work -stats=none {C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/vedic24 .v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fa
+-- Compiling module rca8
+-- Compiling module rca16
+-- Compiling module vedic4
+-- Compiling module vedic8
+-- Compiling module vedic24
+
+Top level modules:
+	vedic24
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/clb.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/clb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module clb4
+-- Compiling module clb3
+-- Compiling module clb2
+
+Top level modules:
+	clb4
+	clb3
+	clb2
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/mux.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/mux.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux24
+-- Compiling module mux8
+-- Compiling module mux1
+
+Top level modules:
+	mux24
+	mux8
+	mux1
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/resultS.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/resultS.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module resultS_mult
+
+Top level modules:
+	resultS_mult
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/check_input.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/check_input.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module checkspecial
+
+Top level modules:
+	checkspecial
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/multiplier.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/multiplier.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/adder.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder6
+-- Compiling module adder8
+-- Compiling module adder9
+-- Compiling module adder10
+-- Compiling module adder12
+-- Compiling module adder24
+-- Compiling module adder25
+-- Compiling module adder26
+
+Top level modules:
+	adder6
+	adder8
+	adder9
+	adder10
+	adder12
+	adder24
+	adder25
+	adder26
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/findbit1.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/findbit1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module findbit1
+
+Top level modules:
+	findbit1
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/shiftleft.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/shiftleft.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shiftleft
+-- Compiling module shiftleftby1
+-- Compiling module shiftleftby2
+-- Compiling module shiftleftby4
+-- Compiling module shiftleftby8
+-- Compiling module shiftleftby16
+
+Top level modules:
+	shiftleft
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/shiftright.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/shiftright.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shiftright24
+-- Compiling module shiftrightby1
+-- Compiling module shiftrightby2
+-- Compiling module shiftrightby4
+-- Compiling module shiftrightby8
+-- Compiling module shiftrightby16
+
+Top level modules:
+	shiftright24
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/tc.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/tc.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tc25
+-- Compiling module tc10
+-- Compiling module tc9
+-- Compiling module tc8
+
+Top level modules:
+	tc25
+	tc10
+	tc9
+	tc8
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/mult_tb.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/multipler32_vedic/mult_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mult_tb
+
+Top level modules:
+	mult_tb
+
+} {} {}}
